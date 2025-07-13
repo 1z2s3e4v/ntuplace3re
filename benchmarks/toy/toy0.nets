@@ -1,0 +1,22 @@
+UCLA pl 1.0
+# Created      : 2025-04-11 03:47:53
+# User         : frankchiang@eda.ee.ntu.edu.tw (Cheng-Yu Chiang)
+# Institution  : EDA Lab, NTU
+
+NumNets : 5
+NumPins : 10
+NetDegree : 2    n0
+    A I : -1.5   0
+    B I : 1.5    0
+NetDegree : 2    n1
+    B I : -1.5   0
+    C I : 0.5    0
+NetDegree : 2    n2
+    C I : 0    1
+    D I : 0    -0.5
+NetDegree : 2    n3
+    D I : 0    0.5
+    E I : 0    -0.5
+NetDegree : 2    n4
+    E I : -0.5    0
+    F I : 0.5    0

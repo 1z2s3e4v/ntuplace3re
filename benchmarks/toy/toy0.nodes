@@ -1,0 +1,23 @@
+UCLA nodes 1.0
+# Created      : 2025-04-11 03:47:53
+# User         : frankchiang@eda.ee.ntu.edu.tw (Cheng-Yu Chiang)
+# Institution  : EDA Lab, NTU
+
+NumNodes : 16
+NumTerminals : 10
+A    3    3
+B    3    3
+C    1    2
+D    2    1
+E    1    1
+F    1    1
+f_1    3    3    terminal
+f_2    3    3    terminal
+f_3    6    6    terminal
+f_4    3    3    terminal
+f_5    3    3    terminal
+f_6    6    6    terminal
+f_7    6    6    terminal
+f_8    2    2    terminal
+f_9    2    2    terminal
+f_10    6    6    terminal
